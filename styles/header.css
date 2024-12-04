@@ -1,0 +1,97 @@
+header{
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    height: 64px;
+    border-bottom: 1px solid #d9d9d9;
+    top: 0;
+    left: 0;
+    right: 0;
+    background:white;
+    z-index: 1000;
+}
+.header-mid , .header-right{
+    display: flex;
+}
+.header-right a{
+    margin-left: 20px;
+    gap: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-left a{
+    margin-left: 24px;
+    font-size: 14px;
+    color: #181818;
+}
+.home-page {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+.header-left .download{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+.new-icon{
+    width: 17px;
+    height: 14px;
+}
+/* .header-mid{
+    min-width: 180px;
+    max-width: 500px;
+} */
+.header-mid button{
+    width: 40px;
+    height: 40px;
+    background: #f1f2f3;
+    border: 1px solid #d9d9d9;
+    border-radius:0 8px 8px 0;
+    margin-left: -1px;
+}
+
+.header-mid input{
+    padding: 0 12px;
+    min-width: 450px;
+    flex: 1;
+    height: 40px;
+    background: #f1f2f3;
+    border: 1px solid #d9d9d9;
+    border-radius: 8px 0 0 8px ;
+}
+.profile-pic{
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    margin-top: -2px;
+}
+.header-right p{
+    font-size: 13px;
+    color:#61666d;
+}
+.header-right .Submit{
+    gap: 8px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    width: 90px;
+    height: 34px;
+    background: #fb7299;
+    border-radius: 8px;
+}
+.Submit p{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}

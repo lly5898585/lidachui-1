@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>投稿</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-347, -265)">
+            <g id="投稿" transform="translate(347, 265)">
+                <rect id="矩形备份-8" x="0" y="0" width="16" height="16"></rect>
+                <g id="编组" transform="translate(0.9588, 1.5289)" stroke="#333333" stroke-linejoin="round">
+                    <path d="M0,0.722222222 C0,0.323349722 0.329895263,0 0.736842105,0 L5.15789474,0 L7,2.16666667 L13.2631579,2.16666667 C13.6701158,2.16666667 14,2.49000556 14,2.88888889 L14,12.2777778 C14,12.6766611 13.6701158,13 13.2631579,13 L0.736842105,13 C0.329895263,13 0,12.6766611 0,12.2777778 L0,0.722222222 Z" id="路径"></path>
+                    <polyline id="路径" stroke-linecap="round" points="9.21052632 7.21741944 7 5.05555556 4.78947368 7.22222222"></polyline>
+                    <line x1="7" y1="5.05555556" x2="7" y2="10.1111111" id="路径" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

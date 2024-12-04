@@ -1,0 +1,36 @@
+/* 重置所有元素的默认样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* 统一使用 border-box 计算宽高 */
+  }
+  
+    main {
+    padding: 80px 140px 0 140px;
+  }
+  
+  img, video {
+    max-width: 100%; /* 图片和视频保持响应式 */
+    height: auto;
+  }
+  
+  ul, ol {
+    list-style: none; /* 移除列表项默认样式 */
+  }
+  
+  a {
+    text-decoration: none; /* 移除超链接的下划线 */
+    color: inherit; /* 超链接继承父元素颜色 */
+  }
+  
+  button, input, textarea {
+    border: none; /* 移除默认边框 */
+    background: none;
+    /* font: inherit; */
+  }
+  
+  table {
+    border-collapse: collapse; /* 合并单元格边框 */
+    border-spacing: 0;
+  }
+  

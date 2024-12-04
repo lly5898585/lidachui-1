@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>下载客户端</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="logo" transform="translate(-374, -266)" stroke="#333333">
+            <g id="下载客户端" transform="translate(374, 266)">
+                <g id="编组" transform="translate(1.6096, 1.0752)">
+                    <polyline id="路径" stroke-linecap="round" points="12.7834778 2.41352632 10.9536556 3.83788367e-13 2.04627222 3.83788367e-13 0.210881667 2.41352632"></polyline>
+                    <path d="M0,2.94736842 C0,2.54041053 0.323349722,2.21052632 0.722222222,2.21052632 L12.2777778,2.21052632 C12.6766611,2.21052632 13,2.54041053 13,2.94736842 L13,12.8947368 C13,13.5051737 12.5149917,14 11.9166667,14 L1.08333333,14 C0.485026389,14 0,13.5051737 0,12.8947368 L0,2.94736842 Z" id="路径"></path>
+                    <polyline id="路径" stroke-linecap="round" points="9.38888889 8.10526316 6.5 11.0526316 3.61111111 8.10526316"></polyline>
+                    <line x1="6.49700278" y1="5.15789474" x2="6.49700278" y2="11.0526316" id="路径" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

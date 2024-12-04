@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>历史</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-299, -265)">
+            <g id="历史" transform="translate(299, 265)">
+                <rect id="矩形备份-6" x="0" y="0" width="16" height="16"></rect>
+                <g id="编组" transform="translate(1, 1)" stroke="#333333" stroke-linejoin="round">
+                    <path d="M7,14 C10.865995,14 14,10.865995 14,7 C14,3.134005 10.865995,0 7,0 C3.134005,0 0,3.134005 0,7 C0,10.865995 3.134005,14 7,14 Z" id="路径"></path>
+                    <polyline id="路径" stroke-linecap="round" points="7.00294 2.800035 7.00252 7.003115 9.97031 9.970905"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
